@@ -1,2 +1,2 @@
-# DKDatePicker
-快速创建时间选择器，只需一句话
+# DKPickerView
+快速创建选择器，只需一句话
