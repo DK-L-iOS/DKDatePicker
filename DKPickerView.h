@@ -13,6 +13,7 @@ typedef void(^ResultBlock)(NSString *result);
 @interface DKPickerView : UIView
 
 @property(nonatomic, copy) ResultBlock result;
+// 是否使用定位确定自己位置
 @property(nonatomic, assign) BOOL isUseDefault;
 
 /**
